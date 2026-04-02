@@ -13,7 +13,7 @@ Isme do tasks complete kiye gaye hain:
 - Hover effects on images
 - Clean and simple design
 
-🔗 **Live Demo:** [Click Here](https://rajit8674.github.io/codveda-level2/task1/)  
+🔗 **Live Demo:** [Click Here](https://rajitmaurya.github.io/codveda-level2/task1/)  
 
 
 ---
@@ -26,7 +26,7 @@ Isme do tasks complete kiye gaye hain:
 - Local Storage support (page reload hone par bhi tasks bache rehte hain)
 - User-friendly UI
 
-🔗 **Live Demo:** [Click Here](https://rajit8674.github.io/codveda-level2/task2/)  
+🔗 **Live Demo:** [Click Here](https://rajitmaurya.github.io/codveda-level2/task2/)  
 
 
 ---
